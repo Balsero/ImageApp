@@ -1,0 +1,5 @@
+{
+    "docwriter.style": "Javadoc",
+    "docwriter.progress.trackMethods": true,
+    "docwriter.progress.trackClasses": true
+}
